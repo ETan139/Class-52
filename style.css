@@ -1,0 +1,25 @@
+* {
+    background-color: #500000;}
+.paragraph{
+    font-size: 30px;
+}
+.image{
+    display:flex ; 
+    justify-content:space-evenly;
+
+}
+h1{
+    margin-left: 900px;
+
+}
+a:link{
+    color: blue;
+
+}
+a:visited{
+    color: white; 
+}
+.child:hover img{
+    opacity: 0.5;
+    transform:scale(1.5);
+}
